@@ -1,0 +1,734 @@
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Register Phone Number Already Exist
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:33:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Register Phone Number Already Exist
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:33:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:47:9
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+TypeError: userservice.getHotdeals is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:36:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\home\Desktop\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Register Phone Number Already Exist
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:33:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:66:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: dataarry2.append is not a function
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:91:40
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:64:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:64:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:94:25
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:94:25
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: data is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:94:25
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:79:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:79:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Destination Id Not Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:81:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:80:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:80:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:98:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:102:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of undefined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Cannot find Booking
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:128:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Cannot find Booking
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:128:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:34
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Cannot find Booking
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:128:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'userId' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:197:34
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:126:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:111:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:126:17
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:206:45
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+ReferenceError: destinationId is not defined
+    at C:\Users\home\Desktop\wanderlust-web-service\src\routes\userRouter.js:71:17
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\home\Desktop\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:98:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:98:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:98:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:219:53
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:219:53
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:219:53
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:98:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Booking Failed
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:98:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:255:57
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:248:57
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:248:57
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:270:57
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:248:57
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:270:57
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:248:57
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'length' of null
+    at C:\Users\home\Desktop\wanderlust-web-service\src\model\userslogin.js:270:57
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No Bookings Found
+    at C:\Users\home\Desktop\wanderlust-web-service\src\service\userslogin.js:113:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

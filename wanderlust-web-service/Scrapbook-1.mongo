@@ -1,0 +1,2 @@
+
+db.Users.updateOne({"userId":"U1003"},{$pull:{"bookings":"B1013"}})
